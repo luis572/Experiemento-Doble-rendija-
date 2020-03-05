@@ -23,7 +23,7 @@ Al encender el laser las ondas se vieron así:
 ## Simulación en la librería
 En este caso para confirmar el experimento práctico, se buscaba la realización de una simulación dentro de la librería que hemos estado manejando. Lo primero que cabe aclarar, es el experimento que se quiere simular, en este caso se usó el siguiente (extraído del libro):
 
-
+![](/img/8.PNG)
 
 
 
