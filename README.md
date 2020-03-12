@@ -1,6 +1,6 @@
 # Experiemento-Doble-Rendija
-..* Al realizar este experimento se busca demostrar una teoría de la fisica cuántica, en el experimento se busca lograr un patron de interferencia, esto lo lograremos simular usando una Fuente de fotones(laser) y ademas, de la fuente de fotones saldran los fotones en forma de particula, cuando choquen contra la rendija se cambiará su estado de párticula a un estado de onda y este a su vez se partirá en dos, cuando las ondas de luz terminan de pasar la rendija una se anula con la otra y vuelve a su estado de particula y sigue su recorrido hasta chocar contra una superficie, al chocar con la superficie las particulas forman lineas verticales.
-..* Ademas de realizar el experimento tambien se hará una simulación hecha con nuestra propia libreria.
+* Al realizar este experimento se busca demostrar una teoría de la fisica cuántica, en el experimento se busca lograr un patron de interferencia, esto lo lograremos simular usando una Fuente de fotones(laser) y ademas, de la fuente de fotones saldran los fotones en forma de particula, cuando choquen contra la rendija se cambiará su estado de párticula a un estado de onda y este a su vez se partirá en dos, cuando las ondas de luz terminan de pasar la rendija una se anula con la otra y vuelve a su estado de particula y sigue su recorrido hasta chocar contra una superficie, al chocar con la superficie las particulas forman lineas verticales.
+* Ademas de realizar el experimento tambien se hará una simulación hecha con nuestra propia libreria.
 ![](/img/1.png)
 
 ## Experiemento-Doble-Rendija
