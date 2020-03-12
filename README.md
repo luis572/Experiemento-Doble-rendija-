@@ -5,7 +5,7 @@ Al realizar este experimento se busca demostrar una teoría de la fisica cuánti
 ## Experiemento-Doble-Rendija
 Para realizar el montaje, adecuamos una superficie en la cual se pueda ver el efecto de las ondas, para ello usamos una caja con fondo negro.
 
-![](/img/1.jpg)
+![](/img/1.png)
 
 
 La Fuente de fotones en nuestro experimento se realizará con un laser, el laser se pondrá sobre una base para asegurarnos que se mueva lo minimo posible. Para  separar la onda usararemos una mina con la cual hará el papel de la rendija. 
