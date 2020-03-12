@@ -41,4 +41,4 @@ Este es el resultado de simular el sistema de dos rendijas en dos clics, el prim
 
 Luis Fernando Pizza Gamba 
 
-Andres Gonzales 
+Andres Gonzalez 
