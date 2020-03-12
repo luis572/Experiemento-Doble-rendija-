@@ -26,7 +26,9 @@ En este caso para confirmar el experimento práctico, se buscaba la realización
 ![](/img/8.PNG)
 
 
+simulando: 
 
+![](/img/9.PNG)
 
 
 
